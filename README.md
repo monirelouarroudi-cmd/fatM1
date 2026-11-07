@@ -5,6 +5,12 @@
 
 ---
 
+## 1. Ce que tu connais déjà (3ème)
+
+- Un vecteur $\overrightarrow{AB}$ a une **direction**, un **sens** et une **longueur**.
+- $\overrightarrow{AB} = \overrightarrow{CD}$ signifie que $ABDC$ est un parallélogramme (attention à l'ordre des lettres).
+- Le vecteur opposé de $\overrightarrow{AB}$ est $\overrightarrow{BA}$.
+- Le vecteur nul : $\overrightarrow{AA} = \vec{0}$.
 
 ### Mini-test de rappel
 
