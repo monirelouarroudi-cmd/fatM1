@@ -1,6 +1,5 @@
 # Somme de vecteurs (Seconde)
 
-> **Niveau** : élève venant de 3ème, qui connaît déjà les vecteurs et la translation.
 > **Objectif** : consolider les acquis, puis maîtriser la somme de vecteurs (Chasles, parallélogramme, coordonnées).
 
 ---
